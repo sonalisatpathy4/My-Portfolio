@@ -299,7 +299,7 @@ function App() {
             </p>
           </div>
 
-          <a href="mailto:ssatpathy@gmail.com" className="primary-btn">
+          <a href="mailto:ssatpathy2007@gmail.com" className="primary-btn">
             ssatpathy@gmail.com ↗
           </a>
         </section>
