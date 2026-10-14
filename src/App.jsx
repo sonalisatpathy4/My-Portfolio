@@ -300,7 +300,7 @@ function App() {
           </div>
 
           <a href="mailto:ssatpathy2007@gmail.com" className="primary-btn">
-            ssatpathy@gmail.com ↗
+            ssatpathy2007@gmail.com ↗
           </a>
         </section>
       </main>
