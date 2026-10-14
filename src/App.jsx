@@ -59,8 +59,8 @@ const projects = [
 
 function App() {
 
-  
-  
+
+
   return (
     <div className="portfolio">
       <header className="navbar">
@@ -125,7 +125,9 @@ function App() {
 
           <div className="hero-image">
             <div className="image-glow" />
-            <img src="/sonalisatpathy.jpeg" alt="Sonali Satpathy" />
+
+            <img src="/My-Portfolio/sonalisatpathy.jpeg" alt="Sonali Satpathy" />
+
             <div className="hero-tag">Building. Learning. Improving.</div>
           </div>
         </section>
