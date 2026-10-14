@@ -126,7 +126,7 @@ function App() {
           <div className="hero-image">
             <div className="image-glow" />
 
-            <img src="/My-Portfolio/sonalisatpathy.jpeg" alt="Sonali Satpathy" />
+            <img src="/My-Portfolio/public/sonalisatpathy.jpeg" alt="Sonali Satpathy" />
 
             <div className="hero-tag">Building. Learning. Improving.</div>
           </div>
